@@ -4,7 +4,7 @@ import '../warcaby/Field.dart';
 import '../warcaby/Movement.dart';
 import '../warcaby/Piece.dart';
 import '../warcaby/Player.dart';
-import '../warcaby/deska.dart';
+import '../warcaby/checkerBoard.dart';
 import 'dart:io';
 import 'Player.dart';
 import 'deska.dart';

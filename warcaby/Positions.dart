@@ -1,6 +1,6 @@
 
 import 'Movement.dart';
-import 'deska.dart';
+import 'checkerBoard.dart';
 
 positionFields(Deska board){
   Coordinates emptyFields;

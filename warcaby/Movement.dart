@@ -4,7 +4,7 @@ import 'package:zadania/zadania.dart';
 import 'Field.dart';
 import 'Piece.dart';
 import 'Player.dart';
-import 'deska.dart';
+import 'checkerBoard.dart';
 
 class BeatOrMove {
   bool canBeat;
